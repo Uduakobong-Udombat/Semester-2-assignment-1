@@ -2,7 +2,9 @@ The home directory contains the following sub-directories: code, tests, personal
 
 
 [vagrant@localhost ~]$ mkdir code test personal misc
+
 [vagrant@localhost ~]$ ls
+
 code misc personal test
 
 a.Change directory to the tests directory using absolute pathname
