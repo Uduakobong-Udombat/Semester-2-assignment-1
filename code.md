@@ -1,5 +1,6 @@
 The home directory contains the following sub-directories: code, tests, personal, misc Unless otherwise specified, you are running commands from the home directory.
 
+
 [vagrant@localhost ~]$ mkdir code test personal misc
 [vagrant@localhost ~]$ ls
 code misc personal test
